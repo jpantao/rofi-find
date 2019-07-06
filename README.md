@@ -1,2 +1,2 @@
-# rofi-locate
-A script for Rofi that locates files in your file system
+# rofi-find
+A script for Rofi that locates files in your home directory

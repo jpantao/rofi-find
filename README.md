@@ -1,2 +1,2 @@
 # rofi-find
-- A script for Rofi that opens files and folders in your home directory.
+- A script for Rofi that locates files and folders in your home directory.
